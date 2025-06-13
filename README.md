@@ -32,7 +32,6 @@ docker-praktikum/
 │   ├── app.py                # Aplikasi Flask
 │   ├── Dockerfile            # Docker configuration
 │   ├── requirements.txt      # Python dependencies
-│   └── screenshots/          # Screenshot hasil
 ├── docs/                      # Dokumentasi
 │   └── laporan.pdf           # Laporan lengkap
 └── README.md                 # File ini
